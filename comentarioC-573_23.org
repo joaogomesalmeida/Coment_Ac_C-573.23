@@ -25,7 +25,55 @@
 *Sumário:* 1. Os factos do caso; 2. As questões prejudiciais; 3. A resposta do Tribunal de Justiça da União Europeia; 4. Análise; 5. Conclusões.
 
 * 1. Os factos do caso
+A empresa Agora, para realização de uma obra encomendada por duas pessoas singulares, celebrou um contrato de fornecimento de painéis de revestimento com a empresa SIL[fn:1]. Este contrato incluía um pacto de jurisdição, no qual se estipulava:
+#+begin_quote
+«[o] tribunal de Brescia [(Itália)] é competente para qualquer litígio que surja ou que esteja relacionado com o presente contrato[, a SIL] reserva-se o direito de
+intentar uma ação contra o comprador noutro tribunal competente em Itália ou no estrangeiro»[fn:2].
+#+end_quote
+
+Após terem detetado irregularidades na execução da obra em causa, os donos da obra intentaram, uma ação de indemnização contra a Agora e a SIL no /tribunal de grande instance de Rennes/ (Tribunal de Primeira Instância de Rennes, França)[fn:3]. A Agora requereu a intervenção da SIL como garante. A SIL opôs-se a este pedido, invocando uma exceção dilatória de incompetência internacional do tribunal francês, com fundamento no pacto de jurisdição constante do contrato celebrado entre as duas empresas. A SIL interpôs recurso[fn:4].
+
+O /tribunal de grande instance de Rennes/ (Tribunal de Primeira Instância de Rennes) julgou improcedente esta exceção dilatória de incompetência[fn:5]. A /cour d’appel de Rennes/ (Tribunal de Recurso de Rennes, França), sem examinar a validade da cláusula de atribuição em causa à luz do direito italiano, confirmou a referida decisão com o fundamento de que o pacto atributivo de jurisdição em causa era ilícito, considerando que o mesmo à SIL uma escolha discricionária, contrária ao objetivo de previsibilidade que as cláusulas atributivas de jurisdição devem satisfazer[fn:6].
+
+Inconformada, a SIL recorreu para a /Cour de Cassation/, alegando violação do artigo 25.º, n.º 1, do Regulamento Bruxelas I /bis/[fn:9], uma vez que a validade
+de um pacto atributivo de jurisdição deve ser apreciada à luz do direito do Estado-Membro no qual se situam os tribunais designados ao abrigo desse pacto e, portanto, no caso vertente, à luz do direito italiano[fn:7].
+
 * 2. As questões prejudiciais
+A /Cour de Cassation/ decidiu colocar ao Tribunal de Justiça da União Europeia as seguintes questões prejudiciais:
+
+#+begin_quote
+«1) Perante uma cláusula atributiva de jurisdição assimétrica que só oferece a uma das partes a possibilidade de escolher um tribunal da sua preferência, competente segundo as regras de direito comum, mas diferente do mencionado nessa cláusula, e se a outra parte alegar que esta cláusula é ilegal devido à sua imprecisão e/ou ao seu desequilíbrio, deve esta questão ser decidida à luz de regras autónomas decorrentes do artigo 25.º, n.º 1 do [Regulamento Bruxelas I-A], e do objetivo de previsibilidade e de segurança jurídica prosseguido por este regulamento, ou por aplicação da lei do Estado-Membro designado pela cláusula[?] Por outras palavras, está esta questão relacionada com a validade substantiva da cláusula na aceção daquela disposição ou devem, pelo contrário, os requisitos de validade substantiva da cláusula ser interpretados de forma restritiva no sentido de que apenas dizem respeito às causas materiais de nulidade, principalmente à fraude, ao erro, ao dolo, à violência e à incapacidade?
+
+2) Caso a questão da imprecisão ou do desequilíbrio da cláusula deva ser apreciada à luz de normas autónomas, deve o artigo 25.º, n.º 1, do Regulamento Bruxelas I-A ser interpretado no sentido de que há que aplicar uma cláusula que autoriza uma parte a recorrer a um único tribunal, embora permita à outra parte recorrer a qualquer outro tribunal competente nos termos do direito comum, e não só àquele tribunal, ou deve interpretar-se essa disposição no sentido de que não há que aplicar a referida cláusula?
+
+3) Caso a assimetria de uma cláusula diga respeito a um requisito material, como deve ser interpretada aquela disposição e, em especial, a remissão para a lei do Estado-Membro do tribunal designado, quando vários tribunais forem designados pela cláusula ou quando a cláusula designar um tribunal deixando a uma das partes a possibilidade de escolher outro tribunal e esta escolha ainda não tiver sido feita na data em que o tribunal é chamado a pronunciar-se:
+
+— a lei nacional aplicável é a lei do único tribunal expressamente designado, independentemente de outros também poderem ser chamados a pronunciar-se?
+
+— se forem designados vários tribunais, é possível fazer referência à lei do tribunal efetivamente chamado a pronunciar-se?
+
+— por último, à luz do considerando 20 do Regulamento Bruxelas I‑A, deve a remissão para a lei do tribunal do Estado-Membro designado ser entendida como uma remissão para as normas materiais desse Estado ou para as suas normas de conflitos de leis?»[fn:8]
+#+end_quote
 * 3. A resposta do Tribunal de Justiça da União Europeia
 * 4. Análise
 * 5. Conclusões
+
+* Footnotes
+
+[fn:9] Regulamento (UE) n.º 1215/2012 do Parlamento Europeu e do Conselho, de 12 de dezembro de 2012, relativo à competência judiciária, ao reconhecimento e à execução de decisões em matéria civil e comercial (reformulação), publicado no JO L 351 de 20 de dezembro de 2012.
+
+[fn:8] Considerando n.º 27.
+
+[fn:7] Considerando n.º 22.
+
+[fn:6] Considerando n.º 21.
+
+[fn:5] Considerando n.º 20.
+
+[fn:4] Considerando n.º 19.
+
+[fn:3] Considerando n.º 18.
+
+[fn:2] Considerando n.º 17.
+
+[fn:1] Considerando n.º 16 do Acórdão do Tribunal de Justiça da União Europeia  de 27 de fevereiro de 2025, /Società Italiana Lastre/, C-537/23, [[https://curia.europa.eu/juris/liste.jsf?nat=or&mat=or&pcs=Oor&jur=C%2CT%2CF&num=C-537%252F23&for=&jge=&dates=&language=pt&pro=&cit=none%252CC%252CCJ%252CR%252C2008E%252C%252C%252C%252C%252C%252C%252C%252C%252C%252Ctrue%252Cfalse%252Cfalse&oqp=&td=%3BALL&avg=&lg=&page=1&cid=2486333][EU:C:2025:120]]. Os considerandos subsequentes citados sem indicação de fonte pertencem ao Acórdão que se comenta, exceto se o contrário resultar inequivocamente do contexto.
