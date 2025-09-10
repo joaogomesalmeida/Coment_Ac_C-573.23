@@ -12,7 +12,7 @@
 #+ODT_STYLES_FILE: "~/Dropbox/Bibliografia/ODT/modelo.odt"
 
 #+bibliography: ~/Dropbox/Bibliografia/BetterBibLatex/bib.bib
-#+cite_export: csl chicago-rmartinez.csl
+#+cite_export: csl chicago-fullnote-bibliography.csl
 
 *Resumo:*
 
@@ -52,15 +52,71 @@ A /Cour de Cassation/ decidiu colocar ao Tribunal de Justiça da União Europeia
 
 — se forem designados vários tribunais, é possível fazer referência à lei do tribunal efetivamente chamado a pronunciar-se?
 
-— por último, à luz do considerando 20 do Regulamento Bruxelas I‑A, deve a remissão para a lei do tribunal do Estado-Membro designado ser entendida como uma remissão para as normas materiais desse Estado ou para as suas normas de conflitos de leis?»[fn:8]
+— por último, à luz do considerando 20 do Regulamento Bruxelas I-A, deve a remissão para a lei do tribunal do Estado-Membro designado ser entendida como uma remissão para as normas materiais desse Estado ou para as suas normas de conflitos de leis?»[fn:8]
 #+end_quote
+
 * 3. A resposta do Tribunal de Justiça da União Europeia
+Quanto à primeira questão, o O TJ inicia a sua resposta assinalando que o conceito "sustantivamente nulo" não é definido no Regulamento Bruxelas I /bis/. Inexistindo uma remissão para o Direito dos Estados-Membros para determinar o seu sentido e alcance, o TJ recorda a sua jurisprudência constante de que os conceitos devem ser objeto de interpretação autónoma, tendo em conta o sentido habitual desses termos na linguagem corrente, o contexto em que são utilizados e os objetivos prosseguidos pelo instrumento normativo em que estão consagrados[fn:10].
+
+Analisando o elemento literal, o TJ conclui que a expressão "substantivamente" tem, no domínio forense, o sentido habitual de que se refere às questões relativas ao próprio objeto do processo judicial, à relação material controvertida[fn:11]. Alargando à sua análise à parte final do artigo 25.º, n.º 1, conclui que a mesma é uma norma de conflitos que visa determinar o direito material aplicável "à questão de saber se, apesar de todas as condições de validade previstas nesse artigo estarem reunidas, tal pacto é nulo por outros motivos abrangidos por esse direito nacional"[fn:12].
+
+A nível do contexto, o TJ assinala que o considerando n.º 20 do Regulamento Bruxelas I /bis/ este redigido em moldes análogos ao artigo 25.º, n.º 1, e que este artigo, derrogando o princípio geral /actor sequitur forum rei/, deve ser objeto de uma interpretação estrita[fn:13]. Observando o artigo 25.º, n.º 1, globalmente, o TJ assinala que esta disposição prevê condições de validade material e formal próprias dos pactos de jurisdição. Deste modo, a expressão "substantivamente nulo" não abrange às condições validade próprias, mas apenas as causas gerais de nulidade de um contrato, como o erro, o dolo ou a violência, e a incapacidade de contratar[fn:14].
+
+O TJ afirma depois que esta interpretação é conforme aos objetivos prosseguidos pelo Regulamento Bruxelas I /bis/, em particular o de reforço da segurança jurídica, destacando que este objetivo "exige que o juiz nacional ao qual a questão foi submetida possa facilmente pronunciar-se sobre a sua própria competência, sem ser obrigado a proceder a um exame do processo quanto ao mérito"[fn:15]. Assinala também que a interpretação de que a expressão "substantivamente nulo" não abrange às condições validade próprias, mas apenas as causas gerais de nulidade de um contrato, é conforme à sua génese, pois com a introdução desta norma de conflitos visou-se aproximar o regime dos pactos de jurisdição do Regulamento Bruxelas I /bis/ do constante na Convenção da Haia de 2005 sobre os Acordos de Eleição do Foro[fn:16].
+
+Terminada a interpretação autónoma da expressão "substantivamente nulo", o TJ foca-se nos alegados vícios do pacto de jurisdição firmado entre as partes, a saber: a sua alegada imprecisão e o seu alegado desiquilíbrio. No que se refere à alegada imprecisão, o TJ - recorrendo aos Acórdãos de 9 de novembro de 2000, 7Coreck Maritime/, C-387/98, EU:C:2000:606, n.º 15, e de 7 de julho de 2016, /Hőszig/, C-222/15, EU:C:2016:525, n.º 43, proferidos, respetivamente, em sede da Convenção de Bruxelas e do Regulamento Bruxelas I e transponíveis para o Regulamento Bruxelas I /bis/ - conclui que o artigo 25.º, n.º 1, contém uma exigência própria de precisão, pelo que, "para ser válido, um pacto atributivo de jurisdição deve nomeadamente identificar, de forma suficientemente precisa, os elementos objetivos sobre os quais as partes chegaram
+a acordo para designar o tribunal ou os tribunais aos quais pretendem submeter os seus litígios surgidos ou a surgir"[fn:17]. Quanto ao alegado desequilíbrio, decorrente do seu carácter assimétrico, o TJ conclui que os artigos 15.º, 19.º, 23.º e 25.º, n.º 4, consagram os critérios autónomos do Regulamento Bruxelas I /bis/ para determinar a validade ou invalidade de pactos assimétricos[fn:18]. Considera ainda que este entendimento não é prejudicado pelo facto de a Convenção de Bruxelas conter, ao contrário dos Regulamentos Bruxelas e Bruxelas I /bis/, uma disposição que implicitamente admite a validade de um pacto de jurisdição assimétrico, uma vez que a supressão da norma não visou uma alteração de regime, mas apenas acentuar que a competência atribuida pelo pacto de jurisdição é exclusiva, caso as partes não acordem diversamente[fn:20]. Conclui, por isso, que nenhum dos alegados vícios deve ser avaliados à luz da norma de conflitos constante do artigo 25.º, n.º 1, primeiro período, parte final, mas sim segundo os critérios autónomos do Regulamento Bruxelas I /bis/[fn:19] e, como tal, fica prejudicada a resposta à terceira questão prejudicial[fn:21].
+
+Com a segunda questão prejudicial, o órgão judicial de reenvio pergunta, em síntese, se os critérios autónomos de validade dos pactos de jurisdição do Regulamento de Bruxelas I /bis/ se opõem a um pacto como o que foi firmado entre as partes, com fundamento na alegada imprecisão e ou carácter assimétrico do mesmo.
+
+Analisando o pacto de jurisdição firmado entre as partes, o TJ refere que o mesmo parece permitir a uma das partes recorrer a tribunais de diferentes Estados e esclarece que apesar da redação da norma ("um tribunal ou os tribunais de /um/ Estado-Membro"), o artigo 25.º, n.º 1, não pode ser interpretado no sentido de que apenas permite a escolha de /um/ tribunais ou de /vários ou todos os/ tribunais de /um único/ Estado-Membro, pois tal interpretação seria contrária ao princípio da autonomia privada, subjacente à disposição, e resulta, desde logo, das restantes regras de competência internacional do Regulamento Bruxelas I /bis/, em particular as relativas aos pactos de jurisdição em matéria de seguros, contratos de consumo e contratos individuais de trabalho, a possibilidade de serem internacionalmente competentes para julgar a causa os tribunais de mais do que um Estado-Membro[fn:22].
+
+Quanto ao alegado vício de imprecisão, o TJ salienta que cumpre a exigência de precisão prevista no artigo 25.º, n.º 1, o pacto de jurisdição que designa, "por um lado, um tribunal em particular e, por outro lado, outros tribunais competentes ao abrigo das disposições do capítulo II, secções 1 e 2, do Regulamento Bruxelas I-A e do título II, secções 1 e 2, desta convenção [Convenção Lugano II]", pois esta última parte tratar-se-ia de uma remissão para as regras gerais desses instrumentos normativos[fn:23]. O TJ precisa, porém, que se o trecho "outro tribunal competente [...] no estrangeiro" for interpretado no sentido de que designa também um ou vários Estados que não são membros da União nem partes na Conveção Lugano II, então este pacto seria contrário ao artigo 25.º, n.º 1[fn:24]. Conclui, por isso, que "o pacto atributivo de jurisdição em causa só é suscetível de responder à exigência de precisão, à luz da jurisprudência mencionada no n.º 42 do presente acórdão, na medida em que possa ser interpretado no sentido de que designa o tribunal de Brescia e os tribunais competentes dos Estados-Membros ou dos Estados parte na Convenção de Lugano II para conhecer dos litígios entre as partes"[fn:25].
+
+No que respeita ao carácter assimétrico do pacto de jurisdição, o TJ assinala que o regime dos pactos de jurisdição expressos do Regulamento Bruxelas I /bis/ tem por base o princípio da autonomia privada das partes (cf. assinalado nos anteriores Acórdãos de 9 de novembro de 2000, /Coreck Maritime/, C-387/98, EU:C:2000:606, n.º 14, de 7 de fevereiro de 2013, /Refcomp/, C-543/10, EU:C:2013:62, n.º26 e de 18 de novembro de 2020, /DelayFix/, C-519/19, EU:C:2020:933, n.º 38) e que resulta do considerando n.º 19 do Regulamento que o legislador da União Europeia entendeu privilegiar o respeito por este princípio. Por esse motivo, um pacto de jurisdição assimétrico livremente acordado pelas partes não é contrário ao regime do Regulamento Bruxelas I /bis/, salvo nos casos em que se viole as regras sobre a celebração de pactos assimétricos em matéria de seguros, contratos de consumo ou contratos individuais de trabalho (arts. 15.º, 19.º e 23.º), ou as regras de competência internacional exclusivas (artigo 24.º)[fn:26].
+
 * 4. Análise
+
+
 * 5. Conclusões
 
 * Footnotes
 
-[fn:9] Regulamento (UE) n.º 1215/2012 do Parlamento Europeu e do Conselho, de 12 de dezembro de 2012, relativo à competência judiciária, ao reconhecimento e à execução de decisões em matéria civil e comercial (reformulação), publicado no JO L 351 de 20 de dezembro de 2012.
+[fn:26] Considerandos n.ºs 64 e 65.
+
+[fn:25] Considerando n.º 62.
+
+[fn:24] Considerando n.º 60.
+
+[fn:23] Considerando n.º 59.
+
+[fn:22] Cosniderandos n.ºs 55 a 57.
+
+[fn:21] Considerando n.º 68.
+
+[fn:20] Considerando n.º 52.
+
+[fn:19] Considerandos n.ºs 47 e 51.
+
+[fn:18] Considerandos n.ºs 48 e 50.
+
+[fn:17] Considerando n.º 45.
+
+[fn:16] Considerando n.º 40.
+
+[fn:15] Considerando n.º 39, invocando o Acórdão de 29 de julho de 2024, /FTI Touristik/, C-774/22, EU:C:2024:646, n.º 33 e jurisprudência aí referida.
+
+[fn:14] Considerandos n.ºs 35 e 36.
+
+[fn:13] Considerando n.º 34, invocando o Acórdão de 8 de março de 2018, /Saey Home & Garden/, C-64/17, EU:C:2018:173, n.º 24.
+
+[fn:12] Considerando n.º 32.
+
+[fn:11] Considerando n.º 31.
+
+[fn:10] Considerando n.º 30.
+
+[fn:9] Regulamento (UE) n.º 1215/2012 do Parlamento Europeu e do Conselho, de 12 de dezembro de 2012, relativo à competência judiciária, ao reconhecimento e à execução de decisões em matéria civil e comercial (reformulação), publicado no JO L 351 de 20 de dezembro de 2012. Os artigos subsequentes indicados sem indicação de fonte pertencem a este Regulamento, exceto se o contrário resultar inequivocamente do contexto.
 
 [fn:8] Considerando n.º 27.
 
